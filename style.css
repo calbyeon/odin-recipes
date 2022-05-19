@@ -1,0 +1,36 @@
+* {
+    background-color: lavender;
+    font-family: Helvetica, Arial, sans-serif;
+   
+}
+
+h1.circle {
+    width:300px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul,
+li ,
+a{ 
+    text-align: left;
+    width: 300px;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 0%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+ul{
+    border: 1px solid black;
+}
+
+img{
+    border: 5px solid black;
+}
